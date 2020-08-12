@@ -4,7 +4,7 @@ sys_read permet de lire ce que la personne va écrire
 sys_rename permet de rename comme son nom l'indique un fichier 
 # Utilisation
 ouvre le fichier sys_read-sys_rename.s et modifie le avec le fichier que tu veux rename
-https://imgur.com/XC2TOQ9.png
+https://imgur.com/EKdxFcn
 
 après tape ces commandes
 
