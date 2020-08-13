@@ -1,5 +1,5 @@
 # Introduction
-Hey, ce dépôt est un petite exercice en nasm que j'ai fais ^^, c'est 2 syscall ^^, sys_read & sys_rename.
+Hey, ce dépôt est un petite exercice en nasm que j'ai fais ^^, s'est 2 syscall ^^, sys_read & sys_rename.
 sys_read permet de lire ce que la personne va écrire
 sys_rename permet de rename comme son nom l'indique un fichier 
 # Utilisation
